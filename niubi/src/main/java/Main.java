@@ -8,6 +8,6 @@
 public class Main {
 
     public static void main(String[] args) {
-        System.out.println("hello feature/002");
+        System.out.println("feature/001 先做了提交");
     }
 }
