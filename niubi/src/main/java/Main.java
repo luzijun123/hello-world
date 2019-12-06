@@ -9,5 +9,6 @@ public class Main {
 
     public static void main(String[] args) {
         System.out.println("feature/001 先做了提交");
+        System.out.println("feature/002 后做了提交");
     }
 }
